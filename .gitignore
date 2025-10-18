@@ -25,3 +25,7 @@ dist-ssr
 
 # Playwright
 .playwright-mcp
+
+# MCP Configuration (contains secrets)
+.mcp.json
+.claude/
